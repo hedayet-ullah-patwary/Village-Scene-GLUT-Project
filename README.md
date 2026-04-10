@@ -45,7 +45,7 @@ A multi-scene interactive **2D Village Animation** built with **C++ using OpenGL
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/village-scene.git
+   git clone https://github.com/hedayet-ullah-patwary/village-scene.git
    ```
 2. Open `Village Scene.cbp` in **Code::Blocks**
 3. Build & Run (`F9`)
